@@ -1,6 +1,6 @@
 [package]
 name = "摩尔MES"
-version = "1.0.1"
+version = "1.0.2"
 description = "摩尔云制造系统"
 authors = ["1024xiaoshen"]
 edition = "2021"
